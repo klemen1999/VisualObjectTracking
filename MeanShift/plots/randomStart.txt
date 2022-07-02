@@ -1,0 +1,10 @@
+0: Start: (30, 38), #Steps: 49
+1: Start: (13, 92), #Steps: 0
+2: Start: (50, 61), #Steps: 34
+3: Start: (19, 11), #Steps: 0
+4: Start: (8, 2), #Steps: 0
+5: Start: (51, 70), #Steps: 0
+6: Start: (37, 97), #Steps: 47
+7: Start: (7, 28), #Steps: 0
+8: Start: (66, 68), #Steps: 44
+9: Start: (46, 35), #Steps: 46
